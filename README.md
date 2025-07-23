@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi 👋, I'm Chankshi Shrawankar
+Data Analyst
 
-<!--
-**chankshi09/chankshi09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Contact_Book Python](https://github.com/chankshi09/Contact_Book_Python)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Numpy,Pandas,Matplotlib,Seaborn**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on [BlinkIT Dataset Analysis Power Bi](https://github.com/chankshi09/BlinkIT-Dataset-Analysis)
+
+- 👨‍💻 All of my projects are available at [https://github.com/chankshi09](https://github.com/chankshi09)
+
+- 💬 Ask me about **Pyhton,Power Bi**
+
+- 📫 How to reach me **chankshishrawankar@gmail.com**
+
