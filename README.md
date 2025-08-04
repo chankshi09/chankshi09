@@ -9,7 +9,7 @@ Data Analyst
 
 - 👨‍💻 All of my projects are available at [https://github.com/chankshi09](https://github.com/chankshi09)
 
-- 💬 Ask me about **Pyhton,Power Bi**
+- 💬 Ask me about **Python,Power Bi**
 
 - 📫 How to reach me **chankshishrawankar@gmail.com**
 
